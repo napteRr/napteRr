@@ -11,7 +11,7 @@ Estudiante de **Ingeniería en Sistemas de Información** en la **UTN**.
 - **Base Analítica & Idioma:** cálculo diferencial/integral, álgebra lineal, lógica formal, grafos, mecánica clásica y lectura de documentación en inglés.
 
 ### Aprendiendo ahora
-- **Rust** · protocolos de red (**TCP/IP**, **UDP**)
+- Rust · Protocolos de red (**TCP/IP**, **UDP**)
 
 ### Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
