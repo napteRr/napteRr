@@ -1,14 +1,6 @@
 # Ignacio Melian
 
 Estudiante de **Ingeniería en Sistemas de Información** en la **UTN**.  
-`35% de la carrera · 67% del título intermedio`
-
-### Qué manejo hoy
-- **Programación & Diseño:** diseño algorítmico, estructuras dinámicas, análisis de complejidad; POO (`Smalltalk`), funcional (`Haskell`), lógico (`Prolog`) y scripting (`Python`).
-- **Lenguajes & Compilación:** autómatas, gramáticas formales, expresiones regulares y análisis léxico/sintáctico.
-- **Sistemas, Linux & Redes:** organización de CPU, lógica digital, representación binaria, concurrencia, sincronización, planificación de procesos y gestión de memoria. Uso general de **Linux**, **shell scripting** y **SSH**.
-- **Producto & Negocio:** relevamiento de requerimientos, modelado UML, procesos organizacionales, evaluación de costos y criterio profesional.
-- **Base Analítica & Idioma:** cálculo diferencial/integral, álgebra lineal, lógica formal, grafos, mecánica clásica y lectura de documentación en inglés.
 
 ### Aprendiendo ahora
 - Rust · Protocolos de red (**TCP/IP**, **UDP**)
